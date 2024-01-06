@@ -6,13 +6,11 @@
 /*   By: mikus <mikus@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/04 22:00:00 by mikus             #+#    #+#             */
-/*   Updated: 2024/01/06 19:53:09 by mikus            ###   ########.fr       */
+/*   Updated: 2024/01/06 19:56:35 by mikus            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "pipex.h"
-
-
 
 int	manage_here_doc(char *delimiter)
 {
